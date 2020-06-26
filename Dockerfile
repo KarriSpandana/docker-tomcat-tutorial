@@ -1,5 +1,5 @@
 FROM tomcat:8.0-alpine
-LABEL maintainer="spandana"
+LABEL maintainer="spandanak"
 
 COPY sample.war /usr/local/tomcat/webapps/
 
